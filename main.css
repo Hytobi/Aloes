@@ -1,0 +1,51 @@
+#output {
+    font-size: 20px;
+    font-family: sans-serif;
+    white-space: pre-wrap;
+    /* Conserve les retours à la ligne */
+}
+
+textarea {
+    /* Hauteur de 200 pixels */
+    height: 200px;
+    /* Largeur de 500 pixels */
+    width: 500px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.orange {
+    color: orange;
+}
+
+.pink {
+    color: pink;
+}
+
+.brown {
+    color: rgb(139, 69, 19);
+}
+
+
+
+
+
+/* etc. pour chaque couleur de la méthode Aloès */
