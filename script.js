@@ -38,8 +38,8 @@ input.addEventListener("input", () => {
                 // -ou
                 color = "orange";
             } else if (c === "o" && line[i + 1] === "n") {
-                // -o
-                color = "bleu";
+                // -on
+                color = "blue";
                 bk++;
             } else if (line[i - 1] === "f" && c === "e" && line[i + 1] === "m" && line[i + 2] === "m") {
                 // -femme
@@ -50,7 +50,7 @@ input.addEventListener("input", () => {
                 color = "yellow";
                 bk++;
                 let inter = line[i + 2];
-                if (inter === "a" || inter === "e" || inter === "i" || inter === "o" || inter === "u" || inter === "y" || inter === "n") {
+                if (inter === "a" || inter === "e" || inter === "i" || inter === "o" || inter === "u" || inter === "y" || inter === "n"|| inter === "m") {
                     bk--;
                     nbInter--;
                 }
