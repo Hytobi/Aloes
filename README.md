@@ -40,3 +40,8 @@ on : bleu
 en : rose
 in : jaune
 
+mot probleme : souvent avec la lettre "e"
+exemple
+
+
+
