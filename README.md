@@ -5,7 +5,8 @@ Méthode d'apprentissage de la lecture développée par Jean-François Hontang, 
 Vise à aider les enfants à apprendre à lire de manière autonome en leur enseignant à décoder 
 les mots grâce à la reconnaissance des syllabes et des phonèmes.
 
-Technologie : HTLM css JavaScript
+# Technologie
+HTLM css JavaScript
 
 # Attention
 Développé grossièrement sans optimisation de code.
@@ -17,7 +18,7 @@ Ce qui rend compliqueé ce code
 
 Un e muet doit etre spécifié par l'utilisateur : "fête-" spécifie que le "e" de fete est muet 
 
-# Les son qui viennent de la bouche : 
+- Les sons qui viennent de la bouche 
 La lettre prend la couleur
 
 a : rouge
@@ -29,7 +30,7 @@ e : rose
 i : jaune
 ou : orange
 
-# Les son qui viennent du nez : 
+- Les sons qui viennent du nez 
 La lettre reste noir mais est entourée dans une couleur, on va surligner pour simplifier les choses
 
 an : rouge
@@ -40,8 +41,9 @@ on : bleu
 en : rose
 in : jaune
 
-mot probleme : souvent avec la lettre "e"
-exemple
+# Mot probleme à corriger
+-> souvent avec la lettre "e"
+"exemple"
 
 
 
