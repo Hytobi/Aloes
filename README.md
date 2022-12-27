@@ -6,7 +6,7 @@ Vise à aider les enfants à apprendre à lire de manière autonome en leur ense
 les mots grâce à la reconnaissance des syllabes et des phonèmes.
 
 # Technologie
-HTLM css JavaScript
+HTLM CSS JavaScript
 
 # Attention
 Développé grossièrement sans optimisation de code.
