@@ -1,3 +1,7 @@
+# Introduction
+
+Développé dans le but d'aider ma petite soeur qui a des difficultés pour apprendre à lire
+
 # Aloes
 
 La méthode Aloès
