@@ -27,25 +27,25 @@ Un e muet doit etre spécifié par l'utilisateur : "fête-" spécifie que le "e"
 - Les sons qui viennent de la bouche
   La lettre prend la couleur
 
-a : rouge
-oi : violet
-u : marron
-é : vert
-o : bleu
-e : rose
-i : jaune
-ou : orange
+a : rouge;
+oi : violet;
+u : marron;
+é : vert;
+o : bleu;
+e : rose;
+i : jaune;
+ou : orange;
 
 - Les sons qui viennent du nez
   La lettre reste noir mais est entourée dans une couleur, on va surligner pour simplifier les choses
 
-an : rouge
-oin : violet
-un : marron
-ein : vert
-on : bleu
-en : rose
-in : jaune
+an : rouge;
+oin : violet;
+un : marron;
+ein : vert;
+on : bleu;
+en : rose;
+in : jaune;
 
 # Mot probleme à corriger
 
