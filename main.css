@@ -10,6 +10,7 @@ textarea {
     height: 200px;
     /* Largeur de 500 pixels */
     width: 500px;
+    margin-left: 10px;
 }
 
 .red {
