@@ -71,6 +71,10 @@ input.addEventListener("input", () => {
                     color = "green";
                     bk--;
                 }
+            } else if (c === "e" && line[i + 1] === "m") {
+                // -em
+                color = "pink";
+                bk++;
             } else if (c === "e" && line[i + 1] === "i" && line[i + 2] === "n") {
                 // -ein
                 bk++;
