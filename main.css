@@ -1,17 +1,98 @@
-#output {
-    font-size: 20px;
-    font-family: sans-serif;
-    white-space: pre-wrap;
-    /* Conserve les retours à la ligne */
+/* CSS pour le corps de la page */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
 }
 
-textarea {
-    /* Hauteur de 200 pixels */
-    height: 200px;
-    /* Largeur de 500 pixels */
-    width: 500px;
-    margin-left: 10px;
+/* CSS pour l'en-tête */
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
 }
+
+/* CSS pour le conteneur principal */
+#app {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* CSS pour les étiquettes */
+label {
+  font-size: 18px;
+}
+
+/* CSS pour la zone de texte */
+textarea {
+  width: 97%;
+  height: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+/* CSS pour la zone de sortie */
+#output {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-height: 100px;
+}
+
+/* CSS pour les sauts de ligne */
+br {
+  clear: both;
+}
+
+
+
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.orange {
+    color: orange;
+}
+
+.pink {
+    color: pink;
+}
+
+.brown {
+    color: rgb(139, 69, 19);
+}
+
+
+
+
+
+/* etc. pour chaque couleur de la méthode Aloès */
 
 .red {
     color: red;
